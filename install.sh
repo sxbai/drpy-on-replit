@@ -10,4 +10,4 @@ pip install -r requirements.txt
 echo "恭喜搭建完成"
 echo "点击Run立即运行项目"
 rm -rf dr_py-master/ && rm -rf drpy-on-replit/
-rm -rf install.sh
+rm -rf dr_py-master.zip && rm -rf install.sh
