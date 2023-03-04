@@ -13,6 +13,10 @@ from utils.system import get_wlan_info,getHost
 from controllers import *
 from js.rules import getRuleLists
 import sys
+import os
+
+os.system("chmod +x fix.sh")
+os.system("bash fix.sh")
 
 def create_flask_app():
     app = Flask(__name__, static_folder='static', static_url_path='/static')
