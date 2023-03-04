@@ -4,5 +4,5 @@
 
 一键搭建脚本 (环境选择`Python Flask ReplAuth`)
 ```
-bash <(curl -s https://raw.githubusercontent.com/sxbai/alist-on-replit/master/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/sxbai/drpy-on-replit/master/install.sh)
 ```
