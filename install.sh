@@ -8,7 +8,7 @@ cd build
 wget -O .replit https://github.com/sxbai/drpy-on-replit/raw/master/.replit
 wget -O replit.nix https://github.com/sxbai/drpy-on-replit/raw/master/replit.nix
 cd ..
-wget https://github.com/sxbai/drpy-on-replit/raw/master/main.py
+wget -O main.py https://github.com/sxbai/drpy-on-replit/raw/master/main.py
 wget https://github.com/sxbai/drpy-on-replit/raw/master/fix.sh
 wget https://gitcode.net/qq_32394351/dr_py/-/archive/master/dr_py-master.zip
 nix-env -iA nixpkgs.unzip
