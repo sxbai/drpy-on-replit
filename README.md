@@ -4,7 +4,7 @@
     </a>
 </p>
 
-<p align="center"><b>Halo</b>[ˈheɪloʊ]部署于Replit，好用又强大的开源建站工具。</p>
+<p align="center"><b>Drpy</b>[ˈheɪloʊ]部署于Replit，️一个Web服务器将Web和x5电影网站转换为CMS API数据。作者：道长&蓝莓</p>
 
 <p align="center">
 <a href="https://github.com/sxbai/drpy-on-replit/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/sxbai/drpy-on-replit.svg?style=flat-square&include_prereleases" /></a>
@@ -12,8 +12,8 @@
 
 <br />
 <a href="https://blog.sxbai.com">博客</a>
-<a href="https://docs.halo.run">文档</a>
-<a href="https://bbs.halo.run">社区</a>
+<a href="https://github.com/liu673cn/drpy/blob/master/%E9%81%93%E9%95%BF%E4%B9%B1%E8%AF%B4.md">文档</a>
+<a href="https://qm.qq.com/cgi-bin/qm/qr?k=H2KwcXrMdiR5M2blHR5gjZzPfN_S3N_C&jump_from=webapi">QQ群</a>
 <a href="https://t.me/sxbai">Telegram 频道</a>
 </p>
 
