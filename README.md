@@ -1,10 +1,10 @@
 <p align="center">
-    <a href="https://halo.run" target="_blank" rel="noopener noreferrer">
+    <a href="https://gitcode.net/qq_32394351/dr_py" target="_blank" rel="noopener noreferrer">
         <img width="100" src="https://raw.githubusercontent.com/sxbai/drpy-on-replit/master/ppmmiNj.jpg" alt="drpy logo" />
     </a>
 </p>
 
-<p align="center"><b>Drpy</b>[ˈheɪloʊ]部署于Replit，️一个Web服务器将Web和x5电影网站转换为CMS API数据。作者：道长&蓝莓</p>
+<p align="center"><b>Drpy</b>部署于Replit，️一个Web服务器将Web和x5电影网站转换为CMS API数据。作者：道长&蓝莓</p>
 
 <p align="center">
 <a href="https://github.com/sxbai/drpy-on-replit/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/sxbai/drpy-on-replit.svg?style=flat-square&include_prereleases" /></a>
