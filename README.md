@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://gitcode.net/qq_32394351/dr_py" target="_blank" rel="noopener noreferrer">
-        <img width="100" src="https://raw.githubusercontent.com/sxbai/drpy-on-replit/master/ppmmiNj.jpg" alt="drpy logo" />
+        <img width="100" src="https://raw.iqiq.io/sxbai/drpy-on-replit/master/ppmmiNj.jpg" alt="drpy logo" />
     </a>
 </p>
 
