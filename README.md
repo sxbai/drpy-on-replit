@@ -22,6 +22,7 @@
 欢迎Fork本项目，drpy-on-replit
 
 一键搭建脚本 (环境选择`Python Flask ReplAuth`)
+![](https://raw.iqiq.io/sxbai/drpy-on-replit/master/2023-03-18172219.png)
 ```
 bash <(curl -s https://raw.githubusercontent.com/sxbai/drpy-on-replit/master/install.sh)
 ```
